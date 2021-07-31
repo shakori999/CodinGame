@@ -22,3 +22,4 @@ In this reposority you will find my working solutions for puzzles and bots for c
 | 6 | [Mars Lander - Episode 1](https://www.codingame.com/training/easy/mars-lander-episode-1) | :heavy_check_mark: Completed | Easy | [python](Puzzles/Mars_Lander_Episode_1.py)|
 | 7 | [Rock Paper Scissors Lizard Spock](https://www.codingame.com/training/easy/rock-paper-scissors-lizard-spock) | :heavy_check_mark: Completed | Easy | [python](Puzzles/Rock_Paper_Scissors_Lizard_Spock.py)|
 | 8 | [Detective Pikaptcha EP1](https://www.codingame.com/training/easy/detective-pikaptcha-ep1) | :heavy_check_mark: Completed | Easy | [python](Puzzles/Detective_Pikaptcha_EP1.py)|
+| 9 | [Lumen](https://www.codingame.com/ide/puzzle/lumen) | ✔️ Completed | Easy | [python](Puzzles/Lumen.py)|
